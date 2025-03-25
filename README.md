@@ -1,4 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zearkushal&label=Profile%20views&color=0e75b6&style=flat" alt="zearkushal" /> </p>
+
 # Hi there, I'm Kushal Dhamala 👋
+
 
 🔭 I’m currently working on AI/ML projects
 
