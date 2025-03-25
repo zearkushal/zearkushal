@@ -13,12 +13,7 @@ Connect with me:
 
 ---
 
-## 📈 My GitHub Stats
 
-
-![Kushal's Snake Animation](https://github.com/zearkushal/zearkushal/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 💻 Languages and Tools
 
