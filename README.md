@@ -40,7 +40,7 @@ I'm a curious and driven data science learner who loves turning data into meanin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-dhamala-7290b9259/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshldhamala@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.kushaldhamala.com.np/)
+[![Website](https://img.shields.io/badge/Portfolio-E04848?style=for-the-badge&logo=safari&logoColor=F5F5DC)](https://www.kushaldhamala.com.np/)
 
 ---
 
